@@ -1,6 +1,8 @@
-int main() {
 #include <math.h>
 #include <stdlib.h>
+#include <stdio.h>
+
+int main() {
 long i,entry,p,r,found,prime,expo,temp,total;
 ldiv_t test,x,answ;
 puts("Enter an integer to prime-factorize.");

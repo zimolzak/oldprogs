@@ -1,6 +1,8 @@
-int main(){
 #include <math.h>
 #include <stdlib.h>
+#include <stdio.h>
+
+int main(){
 float p;
 int a,b,r,z,found,prime;
 div_t x;
