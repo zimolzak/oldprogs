@@ -1,6 +1,7 @@
 int main() {
   /*#include <math.h>*/
 #include <stdlib.h>
+#include <stdio.h>
 float answ;
 int fin, i, entry;
 div_t test;
