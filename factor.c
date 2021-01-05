@@ -1,5 +1,5 @@
 int main() {
-#include <math.h>
+  /*#include <math.h>*/
 #include <stdlib.h>
 float answ;
 int fin, i, entry;
